@@ -22,4 +22,4 @@ The motivaition behind this experiment was reading below Quote on stackoverflow:
 As per result that you can find in this link : https://github.com/mfaddo/AggregationsBenchMarks/blob/master/AggregationsBenchMarks/Result.md <br/>
 Manula Iteration is the fastest in term of speed , however the code is not readable nor simple which will add overhead on code scalability and maintenance. 
 
-so on most of the cases we will use LINQ functions unless you care about the performance tooooo much. 
+so on most of the cases we will use LINQ functions unless we care about the performance tooooo much. 
